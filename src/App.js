@@ -1,12 +1,9 @@
 import './App.css';
-import HookCounterFour from './components/HookCounterFour';
-
-
-
+import Index from './components/Index1';
 function App() {
   return (
     <div className="App">
-      <HookCounterFour/>
+      <Index/>      
     </div>
   );
 }
