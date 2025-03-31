@@ -1,9 +1,11 @@
 import './App.css';
-import Index from './components/Index1';
+import UserForm from './components/UserForm';
+
+
 function App() {
   return (
     <div className="App">
-      <Index/>      
+      <UserForm/>
     </div>
   );
 }
